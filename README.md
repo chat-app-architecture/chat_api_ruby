@@ -10,15 +10,23 @@ rake db:create
 rake db:migrate
 ```
 
-## Run APP
+## Run the Rails Server
 
 ```bash
 rails s
 ```
 
-## Run Tests
+## Run specs
 
 ```bash
 # please check lib/tasks/rspec.rake
 rake
+```
+
+## Run ruby scanners
+
+```bash
+rubocop
+brakeman --force
+bundler-audit
 ```
