@@ -35,6 +35,8 @@ rake
 
 ### Run ruby scanners
 
+Note that these commands can be easily integrated in Circle CI.
+
 ```bash
 rubocop
 
