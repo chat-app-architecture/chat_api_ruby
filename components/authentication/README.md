@@ -2,7 +2,11 @@
 
 Authentication engine uses `devise` and `devise-jwt` to provide an authentication strategy for Stonks API.
 
-## Usage
+- [Authentication](#authentication)
+  - [Design and Usage](#design-and-usage)
+  - [License](#license)
+
+## Design and Usage
 
 First you need to create a new initializer file for devise:
 ```ruby
