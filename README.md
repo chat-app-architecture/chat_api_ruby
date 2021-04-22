@@ -27,6 +27,10 @@ rake
 
 ```bash
 rubocop
-brakeman --force
+
+brakeman --path ./components/api
+brakeman --path ./components/authentication
+brakeman --path ./components/chat
+
 bundler-audit
 ```
