@@ -59,4 +59,4 @@ For more information about the engines, please visit their respective README.
 
 ### Chat Engine
 
-[Authentication Engine](https://gitlab.com/vbrazo/chat_rails_api/-/blob/master/components/chat/README.md)
+[Chat Engine](https://gitlab.com/vbrazo/chat_rails_api/-/blob/master/components/chat/README.md)
