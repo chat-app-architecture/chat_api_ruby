@@ -1,6 +1,6 @@
 # Rails API
 
-Contains Rails functionality that allows Storns to manage `Users`, `UserResources`, `Groups` and `GroupMessages`.
+Contains Rails functionality that allows Storns to manage `Users`, `UserResources`, `Groups` and `GroupMessages` models.
 
 ## Installation
 
