@@ -1,6 +1,6 @@
 # Stonks Rails API
 
-Contains Rails functionality that allows Storns to manage `Users`, `UserResources`, `Groups` and `GroupMessages` models.
+Stonks Rails API is Rails API that has functionality to allows Storns to manage `Users`, `UserResources`, `Groups` and `GroupMessages` models.
 
 - [Stonks Rails API](#stonks-rails-api)
   - [Installation](#installation)
@@ -47,7 +47,7 @@ bundler-audit
 
 ## Engines
 
-For more information about the engines, please visit their respective README.
+For more information about the engines, please visit their respective READMEs.
 
 ### Api Engine
 
