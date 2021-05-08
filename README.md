@@ -4,13 +4,13 @@ Stonks Rails API is Rails API that has functionality to allows Storns to manage 
 
 - [Stonks Rails API](#stonks-rails-api)
   - [Installation](#installation)
-    - [Run the server](#Run the server)
-    - [Run tests](#run-tests)
+    - [Run the server](#run-the-server)
+    - [Run specs](#run-specs)
     - [Run Ruby scanners](#run-ruby-scanners)
   - [Engines](#engines)
     - [Api Engine](#api-engine)
     - [Authentication Engine](#authentication-engine)
-    - [Chat Engine](#Chat-engine)
+    - [Chat Engine](#chat-engine)
 
 ## Installation
 
