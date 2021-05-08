@@ -53,12 +53,12 @@ For more information about the engines, please visit their respective READMEs.
 
 ### Api Engine
 
-[API Engine](https://gitlab.com/vbrazo/chat_rails_api/-/blob/master/components/api/README.md)
+[API Engine](https://github.com/chat-app-architecture/chat_api_ruby/tree/master/components/api/README.md)
 
 ### Authentication Engine
 
-[Authentication Engine](https://gitlab.com/vbrazo/chat_rails_api/-/blob/master/components/authentication/README.md)
+[Authentication Engine](https://github.com/chat-app-architecture/chat_api_ruby/tree/master/components/authentication/README.md)
 
 ### Chat Engine
 
-[Chat Engine](https://gitlab.com/vbrazo/chat_rails_api/-/blob/master/components/chat/README.md)
+[Chat Engine](https://github.com/chat-app-architecture/chat_api_ruby/tree/master/components/chat/README.md)
