@@ -23,7 +23,7 @@ rake db:migrate
 ### Run the server
 
 ```bash
-rails s
+rails server
 ```
 
 ### Run specs
