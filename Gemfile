@@ -10,7 +10,7 @@ gem "brakeman", "~> 5.0.0"
 gem "bundler-audit", "~> 0.8.0"
 gem "faker", "~> 2.14.0"
 gem "pg", ">= 0.18", "< 2.0"
-gem "puma", "~> 5.3"
+gem "puma", "~> 5.5"
 gem "rails", "~> 6.0.3"
 gem "redis", "~> 4.2.5"
 
