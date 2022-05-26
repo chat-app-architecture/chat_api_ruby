@@ -1,0 +1,3 @@
+#!/bin/bash
+
+brakeman --no-exit-on-warn --no-exit-on-error --no-pager --path .
