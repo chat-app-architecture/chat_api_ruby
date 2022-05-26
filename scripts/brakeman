@@ -1,3 +1,5 @@
 #!/bin/bash
 
-brakeman --no-exit-on-warn --no-exit-on-error --no-pager --path .
+brakeman --no-exit-on-warn --no-exit-on-error --no-pager --path components/api
+brakeman --no-exit-on-warn --no-exit-on-error --no-pager --path components/chat
+brakeman --no-exit-on-warn --no-exit-on-error --no-pager --path components/authentication
