@@ -3,7 +3,7 @@
 source "https://rubygems.org"
 git_source(:github) {|repo| "https://github.com/#{repo}.git" }
 
-ruby "2.7.2"
+ruby "3.0.0"
 
 gem "bootsnap", "1.5.1"
 gem "brakeman", "~> 5.0.0"
