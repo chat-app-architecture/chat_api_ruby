@@ -4,6 +4,6 @@ module Authentication
   class JWTBlacklist < ActiveRecord::Base
     self.table_name = "jwt_blacklists"
 
-    include Devise::JWT::RevocationStrategies::Blacklist
+    include Devise::JWT::RevocationStrategies::Denylist
   end
 end

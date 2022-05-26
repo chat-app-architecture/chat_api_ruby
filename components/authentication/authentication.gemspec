@@ -20,5 +20,5 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency "active_model_serializers", "~> 0.10.9"
   spec.add_dependency "devise"
-  spec.add_dependency "devise-jwt", "~> 0.5.8"
+  spec.add_dependency "devise-jwt", "~> 0.9.0"
 end
