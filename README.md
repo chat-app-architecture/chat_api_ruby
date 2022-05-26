@@ -7,6 +7,7 @@ Stonks Rails API is Rails API that has functionality to allows Storns to manage 
     - [Run the server](#run-the-server)
     - [Run specs](#run-specs)
     - [Run Ruby scanners](#run-ruby-scanners)
+    - [Redis](#redis)
   - [Engines](#engines)
     - [Api Engine](#api-engine)
     - [Authentication Engine](#authentication-engine)
@@ -45,6 +46,16 @@ brakeman --path ./components/authentication
 brakeman --path ./components/chat
 
 bundler-audit
+```
+
+## Redis
+
+Please install Redis in your machine: https://redis.io/docs/getting-started/installation/.
+
+After the installation, please run:
+
+```bash
+redis-server
 ```
 
 ## Engines
