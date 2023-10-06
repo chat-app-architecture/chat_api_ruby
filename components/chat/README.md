@@ -1,6 +1,6 @@
 # Chat Engine
 
-Chat Engine is a plugin that allows Storns to manage `Group` and `GroupMessage` models/tables.
+Chat Engine is a plugin that allows Stonks to manage `Group` and `GroupMessage` models/tables.
 
 - [Chat Engine](#chat-engine)
   - [Installation](#installation)
